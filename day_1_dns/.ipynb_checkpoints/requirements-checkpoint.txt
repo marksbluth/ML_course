@@ -1,0 +1,12 @@
+scapy==2.6.1
+pandas
+datetime
+ujson
+matplotlib
+seaborn
+pygwalker
+jupyterlab
+splunk-sdk
+ipykernel
+pandas_profiling
+sweetviz
