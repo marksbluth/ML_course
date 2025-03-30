@@ -9,4 +9,9 @@ jupyterlab
 splunk-sdk
 ipykernel
 pandas_profiling
+pydantic-settings
 sweetviz
+klib
+dabl
+catboost
+scikit-learn
