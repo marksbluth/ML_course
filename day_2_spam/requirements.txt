@@ -6,6 +6,7 @@ matplotlib
 seaborn
 jupyterlab
 splunk-sdk
+splunklib
 ipykernel
 pydantic-settings
 sweetviz
@@ -17,3 +18,7 @@ spaCy
 gensim
 nltk
 transformers
+gitpython
+datasets
+torch
+accelerate

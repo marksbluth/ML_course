@@ -97,6 +97,10 @@ python -m ipykernel install --user --name=venv_day2
 # download spacy english simple model - for use in EDA etc
 python -m spacy download en_core_web_sm
 
+# clone tomcat.
+echo "cloning tomcat - make sure it's in your .gitignore!"
+git clone https://github.com/apache/tomcat.git
+
 # Deactivate the virtual environment (optional, but good practice)
 deactivate_venv
 
